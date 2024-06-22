@@ -1,0 +1,1 @@
+Key.enterKey.backspace'l''a''p''y''o''p'','Key.spaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspace't''o''p'','Key.space'k''e''y''w'Key.backspace'b''o''a''r''d'','Key.space'l''e''t''t''e''r''s'Key.enter'.'
